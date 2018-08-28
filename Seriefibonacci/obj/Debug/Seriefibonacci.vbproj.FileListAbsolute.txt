@@ -1,0 +1,13 @@
+C:\Users\PC07\Desktop\Métodos numéricos\Seriefibonacci\Seriefibonacci\bin\Debug\Seriefibonacci.exe.config
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\bin\Debug\Seriefibonacci.exe.config
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\bin\Debug\Seriefibonacci.exe
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\bin\Debug\Seriefibonacci.pdb
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\bin\Debug\Seriefibonacci.xml
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.vbprojAssemblyReference.cache
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.Serie_fibonacci.resources
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.Resources.resources
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.vbproj.GenerateResource.cache
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.vbproj.CoreCompileInputs.cache
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.exe
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.xml
+C:\Users\GQC\Downloads\Métodos numéricos\Seriefibonacci\Seriefibonacci\obj\Debug\Seriefibonacci.pdb
